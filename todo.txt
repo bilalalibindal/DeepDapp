@@ -12,3 +12,10 @@ Ana sayfa
 
 4.  en üstteki bar çubuğunda Home, Games, ve Connect Wallet butonları olacak. bar çubuğu ekran kaydığında o da kayacak.
 
+Petrol World
+1.  Girişte bizi bir petrol world kapak resmi karşılayacak
+2.  resmin ortasında connect your wallet yazısı olacak, kullanıcı metamask cüzdanını buradan bağlayacak.
+3.  kapak resminin üzerinde ama alt kısmında Play Testnet ve Join whitelist butonları olacak
+    - Play Testnet butonu kullanıcıyı başka bir sayfaya yönlendirecek (Oyun Sayfası)
+    - Join Whitelist butonu sayfayı aşağı kaydıracak ve o kısımda kullanıcının whitelist alabilmesi için bir panel yapacağız
+
