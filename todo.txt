@@ -1,0 +1,14 @@
+Ana sayfa
+1.  en üstte arka plan resmimiz ve solunda Deep Dapp ve içeriğimizi anlatan bir yazı olacak, yazının altında bir buton olacak
+  - buton 1: bu buton kullanıcıyı sosyal linklerimizin olduğu bir sayfaya yönlendirecek
+
+2.  üst tarafta sağda küçük bir kaydıraçlı ekran olacak ve yeni proje reklamları orada gözükecek, 5 saniyede 1 sağa kayacak.
+
+3.  Altta küçük kare şeklinde 3 tane kısım olacak bunların içeriisnde görseller de olacak, ve mouse üstüne gelince
+    hafif byüyecek.
+        1. yeni projemizin sayfasına yönlendirecek.
+        2. reklam verme sayfasına yönlendirecek.
+        3. contact us gibi bir kısım olacak.
+
+4.  en üstteki bar çubuğunda Home, Games, ve Connect Wallet butonları olacak. bar çubuğu ekran kaydığında o da kayacak.
+
