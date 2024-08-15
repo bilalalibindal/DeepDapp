@@ -39,7 +39,7 @@ body {
 
 .hero {
     position: relative;
-    background: url('images/background.webp') no-repeat center center/cover;
+    background: url('../images/background.webp') no-repeat center center/cover;
     height: 600px;
     display: flex;
     justify-content: space-between;
@@ -124,7 +124,7 @@ footer {
 
 .hero-petrol-world {
     position: relative;
-    background: url('images/petrolworld.webp') no-repeat center center/cover;
+    background: url('../images/petrolworld.webp') no-repeat center center/cover;
     height: 120vh;
     display: flex;
     justify-content: center;

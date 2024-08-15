@@ -1,4 +1,4 @@
-class Connect_Wallet {
+export class Connect_Wallet {
     constructor() {
         this.web3 = new Web3(window.ethereum);
     }
@@ -58,13 +58,4 @@ class Connect_Wallet {
             alert("MetaMask extension is not found.");
         }
     }
-}
-
-window.onload = function () {
-    const connectWallet = new Connect_Wallet(); // Sınıfı başlatıyoruz
-
-    // Connect butonuna tıklanınca initialize metodunu çağırıyoruz
-    document.getElementById('connectButton').addEventListener('click', async () => {
-        await connectWallet.initialize();
-    });
 }
