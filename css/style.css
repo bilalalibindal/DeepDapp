@@ -44,7 +44,7 @@ body{
 }
 .section{
     position: relative;
-    background-image: url("/images/background.webp");
+    background-image: url("./images/background.webp");
     height: 100vh;
     
 }
